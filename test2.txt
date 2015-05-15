@@ -8,3 +8,5 @@ second feature git change.
 2015-5-15-ブランチを作成。
 
 hogehoge
+
+新規ブランチを作成
